@@ -1,3 +1,6 @@
+Express-WebPack-Vue-started
+===========================
+
 此專案建立一個Nodejs+Vue，搭配Nodemon、webpack Middleware模組達成前後端皆能即時熱更新的前後端開發環境增加開發的效率。
 
 Express
@@ -73,5 +76,3 @@ Ref
  - http://southerncross.github.io/2016/02/28/setup-express-vue-boilerplate/
  - https://juejin.im/entry/574f95922e958a00683e402d
  - https://medium.com/@savemuse/webpack-%E5%B8%B8%E7%94%A8-plugins-%E4%BB%8B%E7%B4%B9-1505ea01052d
-
- - 
